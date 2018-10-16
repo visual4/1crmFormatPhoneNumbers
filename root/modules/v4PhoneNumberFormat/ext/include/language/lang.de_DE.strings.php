@@ -1,0 +1,17 @@
+<?php return; /* no output */ ?>
+
+LBL_DEFAULT_PHONENUMBER_COUNTRY: Standard Länderkennung für Telefonnummerformatierung
+LBL_DEFAULT_PHONENUMBER_FORMAT: Formatierung für Telefonnummern
+LBL_DEFAULT_PHONENUMBER_VALIDATE: Telefonnummern validieren
+LBL_PHONENUMBER_FORMAT_MODULES: Formatiere Module
+
+LBL_PHONENUMBER_INVALID: Folgende Telefonnummern sind ungültig
+
+LBL_ADMIN_FORMAT_PHONENUMBERS_TITLE: Telefonnummern
+LBL_ADMIN_FORMAT_PHONENUMBERS_SETTINGS_TITLE: Einstellungen
+LBL_ADMIN_FORMAT_PHONENUMBERS_SETTINGS_DESC: Einstellungen für das automatische Formatieren von Telefonnummern
+LBL_ADMIN_FORMAT_PHONENUMBERS_FORMAT_TITLE: Telefonnummern formatieren
+LBL_ADMIN_FORMAT_PHONENUMBERS_FORMAT_DESC: Telefonnummern von Interessenten, Kontakten und Firmen modifizieren
+
+LBL_LNK_FORMAT_PHONENUMBERS_SETTINGS_TITLE: Einstellungen Telefonnummern
+LBL_LNK_FORMAT_PHONENUMBERS_FORMAT_TITLE: Telefonnummern formatieren
