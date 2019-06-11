@@ -22,3 +22,8 @@ fields
         vname: LBL_PHONENUMBER_FORMAT_MODULES
         type: multienum
         options: phonenumber_modules_dom
+    phonenumber_format_allchanges
+        config: phonenumberformat.allchanges
+        vname: LBL_PHONENUMBER_FORMAT_ALLCHANGES
+        type: bool
+        default: 0

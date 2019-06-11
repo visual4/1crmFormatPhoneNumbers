@@ -4,8 +4,10 @@ LBL_DEFAULT_PHONENUMBER_COUNTRY: Standard Länderkennung für Telefonnummerforma
 LBL_DEFAULT_PHONENUMBER_FORMAT: Formatierung für Telefonnummern
 LBL_DEFAULT_PHONENUMBER_VALIDATE: Telefonnummern validieren
 LBL_PHONENUMBER_FORMAT_MODULES: Formatiere Module
+LBL_PHONENUMBER_FORMAT_ALLCHANGES: Formatiere Telefonnummmern bei allen Änderung an Datensätzen
 
 LBL_PHONENUMBER_INVALID: Folgende Telefonnummern sind ungültig
+LBL_PHONENUMBER_COUNTRYCODE_NOT_FOUND: Es wurde kein Ländercode gefunden.<br>Für folgende Telefonnummern wurde der Standardcode %s verwendet
 
 LBL_ADMIN_FORMAT_PHONENUMBERS_TITLE: Telefonnummern
 LBL_ADMIN_FORMAT_PHONENUMBERS_SETTINGS_TITLE: Einstellungen

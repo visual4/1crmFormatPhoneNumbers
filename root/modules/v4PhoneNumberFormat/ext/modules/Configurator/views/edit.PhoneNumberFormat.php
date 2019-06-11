@@ -17,6 +17,7 @@ layout
                 - default_phonenumber_format
                 - default_phonenumber_validate
                 - phonenumber_format_modules
+                - phonenumber_format_allchanges
 
 
 
