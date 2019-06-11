@@ -9,6 +9,8 @@ spl_autoload_register(function ($class) {
 
     $file = __DIR__
         . DIRECTORY_SEPARATOR
+        . 'lib'
+        . DIRECTORY_SEPARATOR
         . 'src'
         . DIRECTORY_SEPARATOR
         . str_replace('\\', DIRECTORY_SEPARATOR, substr($class, strlen($prefix)))
